@@ -1,0 +1,1 @@
+Esse projeto é um sitema de cadastro de atrativos e usuários e as principais funcionalidades dele cadastrar um atrativo ou usuário, listar todos os atrativos ou usuários, excluir ou alterar um usuário, já no atrativo só é possivel excluir também contém um metodo de login que pretendo melhorar futuramente.
